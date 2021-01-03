@@ -115,4 +115,4 @@ print(numbers)
 numbers2 = [x for x in range(1,101)]
 print(numbers2)
 
-x = [ x for x in range(1, 100) if 조건문]
+# x = [ x for x in range(1, 100) if 조건문]
